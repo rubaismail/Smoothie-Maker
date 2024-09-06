@@ -20,7 +20,7 @@ The “Health Score” will be 0, 1, or 2: 0 if neither spinach nor avocado is p
 
 In this program, we will begin by asking the user about the ingredients on hand. Then, we ask the user for their recipes – one at a time – and inform them about the scores of their recipes. If the user cannot make the recipe because we are missing an ingredient, we inform them of that. Users can enter new recipes until they decide to quit the program.
 
-Input Specification
+Input Specification for user:
 
 1. The response to menu prompts will be an integer.
 
