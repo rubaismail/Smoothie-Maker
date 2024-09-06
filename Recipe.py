@@ -1,8 +1,5 @@
 # Ruba Ismail
-# COP 2500C
-# Program 7 - Smoothie Recipes
 # Mar 24 2024
-
 
 
 # function that takes in ingredients and adds them into the list, also doubles as the update_list function.
